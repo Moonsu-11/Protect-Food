@@ -16,6 +16,7 @@
 		F51BE7422C21DC4900D60111 /* Protect_FoodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51BE7412C21DC4900D60111 /* Protect_FoodTests.swift */; };
 		F51BE74C2C21DC4A00D60111 /* Protect_FoodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51BE74B2C21DC4A00D60111 /* Protect_FoodUITests.swift */; };
 		F51BE74E2C21DC4A00D60111 /* Protect_FoodUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51BE74D2C21DC4A00D60111 /* Protect_FoodUITestsLaunchTests.swift */; };
+		F51BE7692C21F8C500D60111 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51BE7682C21F8C500D60111 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F51BE7472C21DC4A00D60111 /* Protect FoodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Protect FoodUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F51BE74B2C21DC4A00D60111 /* Protect_FoodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protect_FoodUITests.swift; sourceTree = "<group>"; };
 		F51BE74D2C21DC4A00D60111 /* Protect_FoodUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protect_FoodUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F51BE7682C21F8C500D60111 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				F51BE72A2C21DC4400D60111 /* AppDelegate.swift */,
 				F51BE72C2C21DC4400D60111 /* SceneDelegate.swift */,
 				F51BE72E2C21DC4400D60111 /* ViewController.swift */,
+				F51BE7682C21F8C500D60111 /* Game.swift */,
 				F51BE7302C21DC4400D60111 /* Main.storyboard */,
 				F51BE7332C21DC4900D60111 /* Assets.xcassets */,
 				F51BE7352C21DC4900D60111 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				F51BE72F2C21DC4400D60111 /* ViewController.swift in Sources */,
 				F51BE72B2C21DC4400D60111 /* AppDelegate.swift in Sources */,
 				F51BE72D2C21DC4400D60111 /* SceneDelegate.swift in Sources */,
+				F51BE7692C21F8C500D60111 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
